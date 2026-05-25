@@ -1,0 +1,1 @@
+Built an AI-powered fake news detection system using TF-IDF, Logistic Regression, and Random Forest ensemble models to classify news articles as real or fake. Implemented NLP preprocessing techniques including tokenization, stopword removal, stemming, and lemmatization using NLTK, achieving nearly 94% validation accuracy on large-scale datasets.
